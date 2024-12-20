@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Currently pursuing Degree on AI & DS <br>I'm a 3D Designer & Game programmer <br>Working in Small game to understand the principle of Game development<br><br>
+## I'm Currently pursuing Degree on AI & DS <br>
+## I'm a 3D Designer & Game programmer <br>
+## Working in Small game to understand the principle of Game development<br><br>
 
 
 ## 🌐 Socials:
